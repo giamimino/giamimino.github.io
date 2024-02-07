@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  #preview {
+    margin-top: 20px;
+  }
+  
+  img {
+    max-width: 300px;
+    max-height: 300px;
+  }
+  
